@@ -1,1 +1,1 @@
-Tere maailm!
+print "Hello world!"
